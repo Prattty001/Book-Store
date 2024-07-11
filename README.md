@@ -1,1 +1,2 @@
-# Book-Store
+
+Developed using HTML, CSS, JavaScript, and PHP, the bookstore website offers a user-friendly interface for browsing and purchasing books. It includes features like dynamic search, category filtering, user authentication, and a shopping cart system. Designed with responsive layouts, it ensures seamless usability across devices, making it convenient for book enthusiasts to explore and buy their favorite reads online.
